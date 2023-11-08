@@ -13,3 +13,7 @@ h2{
 ul{
     color: blueviolet;
 }
+
+img{
+    border: solid 2px yellow;
+}
